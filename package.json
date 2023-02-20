@@ -160,6 +160,5 @@
   },
   "dependencies": {
     "react-native-actions-sheet": "^0.6.1",
-    "react-native-gesture-handler": "2.2.1"
   }
 }
